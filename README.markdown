@@ -44,8 +44,10 @@ Requirements
 
 Besides a simple PHP running on your favourite web server you will also need following packages:
 
-* php5-xhprof
-* php5-mysql
+* php-xhprof
+* php-pdo
+* php-pdo-mysql
+* php-pdo-pgsql
 * graphviz (uses `dot` to generate callgraphs)
 
 Installation
